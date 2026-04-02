@@ -1,6 +1,6 @@
 ## NYC livin', Scala encoded
 
-I'm an [NYC-based :cityscape:](https://www.youtube.com/watch?v=le1QF3uoQNg) software engineer, specializing in [Scala](https://www.scala-lang.org/) for backend services, often in a functional programming style with [cats-effect](https://typelevel.org/cats-effect/) and the like
+I'm an [NYC-based](https://www.youtube.com/watch?v=le1QF3uoQNg) :cityscape: software engineer, specializing in [Scala](https://www.scala-lang.org/) for backend services, often in a functional programming style with [cats-effect](https://typelevel.org/cats-effect/) and the like
 
 For personal projects, I'm currently dual-wielding GitHub Copilot and ChatGPT Codex
 
