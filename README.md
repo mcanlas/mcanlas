@@ -18,6 +18,8 @@ Sometimes I teach improv comedy :performing_arts: and coach volleyball :volleyba
 - Scala Days 2025 Lausanne :switzerland:, 2023 Madrid :es:, 2023 Seattle :us:
 - Northeast Scala Symposium
 
+(Not total, I've been to a bunch!)
+
 <!--
 **mcanlas/mcanlas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
