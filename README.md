@@ -15,7 +15,7 @@ Sometimes I teach improv comedy :performing_arts: and coach volleyball :volleyba
 ### Conferences attended
 
 - Scalar :poland: 2026, 2024, 2023
-- Scala Days 2025 (Lausanne :switzerland:), 2023 (Madrid :es:), 2023 (Seattle :us:)
+- Scala Days 2025 Lausanne :switzerland:, 2023 Madrid :es:, 2023 Seattle :us:
 - Northeast Scala Symposium
 
 <!--
